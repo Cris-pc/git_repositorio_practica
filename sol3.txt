@@ -1,18 +1,4 @@
-git commit -m "Actualización: Se agregan los nuevos firware y modelos omnt hw para interoperabilidad"
-[master 10244e9c] Actualización: Se agregan los nuevos firware y modelos omnt hw para interoperabilidad
- 1 file changed, 0 insertions(+), 0 deletions(-)
-
-
 git push -f origin master:CF_dchipuxi_Interoperabilidad
-
-commit 8ee6fd0d67289488094ded911bd9598ded49a1c3
-Author: Francisco Adum <fadum@netlife.net.ec>
-Date:   Fri Oct 28 10:10:14 2022 -0500
-
-    Se reversa cambio para los procesos masivos
-
-
-
 
 jmiddleware
 
