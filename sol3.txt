@@ -2,17 +2,6 @@ git push -f origin master:CF_dchipuxi_Interoperabilidad
 
 jmiddleware
 
-[root@rdasoporte jmiddleware]# git merge dchipuxi_Interoperabilidad
-Updating 1d8352a..9fb060d
-Fast-forward
- src/Zte/Activar_Zte_Titan.java          | 94 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++--------------------------
- src/Zte/CambiarEquipo_Zte_Titan.java    | 92 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-------------------------
- src/Zte/CambiarPuertoPon_Zte_Titan.java | 92 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-------------------------
- 3 files changed, 202 insertions(+), 76 deletions(-)
-[root@rdasoporte jmiddleware]# 
-
-
-
 
 middleware
 [root@rdasoporte middleware]# git merge CF_dchipuxi_Interoperabilidad
@@ -68,6 +57,72 @@ Updating 8ee6fd0..10244e9
 Fast-forward
  src/netlife/MiddlewareBundle/Resources/batch/jmiddleware.jar | Bin 2709438 -> 2713710 bytes
  1 file changed, 0 insertions(+), 0 deletions(-)
+ 
+ 
+  middleware
+[root@rdasoporte middleware]# git merge CF_dchipuxi_Interoperabilidad
+Updating 8ee6fd0..10244e9
+Fast-forward
+ src/netlife/MiddlewareBundle/Resources/batch/jmiddleware.jar | Bin 2709438 -> 2713710 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ 
+ 
+  middleware
+[root@rdasoporte middleware]# git merge CF_dchipuxi_Interoperabilidad
+Updating 8ee6fd0..10244e9
+Fast-forward
+ src/netlife/MiddlewareBundle/Resources/batch/jmiddleware.jar | Bin 2709438 -> 2713710 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ 
+ 
+  middleware
+[root@rdasoporte middleware]# git merge CF_dchipuxi_Interoperabilidad
+Updating 8ee6fd0..10244e9
+Fast-forward
+ src/netlife/MiddlewareBundle/Resources/batch/jmiddleware.jar | Bin 2709438 -> 2713710 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ 
+ 
+  middleware
+[root@rdasoporte middleware]# git merge CF_dchipuxi_Interoperabilidad
+Updating 8ee6fd0..10244e9
+Fast-forward
+ src/netlife/MiddlewareBundle/Resources/batch/jmiddleware.jar | Bin 2709438 -> 2713710 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ 
+ 
+  middleware
+[root@rdasoporte middleware]# git merge CF_dchipuxi_Interoperabilidad
+Updating 8ee6fd0..10244e9
+Fast-forward
+ src/netlife/MiddlewareBundle/Resources/batch/jmiddleware.jar | Bin 2709438 -> 2713710 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ 
+ 
+ 
+ 
+ 
+  middleware
+[root@rdasoporte middleware]# git merge CF_dchipuxi_Interoperabilidad
+Updating 8ee6fd0..10244e9
+Fast-forward
+ src/netlife/MiddlewareBundle/Resources/batch/jmiddleware.jar | Bin 2709438 -> 2713710 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ 
+ 
+ [root@rdasoporte jmiddleware]# git merge dchipuxi_Interoperabilidad
+Updating 1d8352a..9fb060d
+Fast-forward
+ src/Zte/Activar_Zte_Titan.java          | 94 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++--------------------------
+ src/Zte/CambiarEquipo_Zte_Titan.java    | 92 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-------------------------
+ src/Zte/CambiarPuertoPon_Zte_Titan.java | 92 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-------------------------
+ 3 files changed, 202 insertions(+), 76 deletions(-)
+[root@rdasoporte jmiddleware]# 
+
+
+
+
+ 
  
  
 
