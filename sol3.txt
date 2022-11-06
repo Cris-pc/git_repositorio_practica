@@ -123,7 +123,43 @@ Fast-forward
 
 
  
- 
+  [root@rdasoporte jmiddleware]# git merge dchipuxi_Interoperabilidad
+Updating 1d8352a..9fb060d
+Fast-forward
+ src/Zte/Activar_Zte_Titan.java          | 94 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++--------------------------
+ src/Zte/CambiarEquipo_Zte_Titan.java    | 92 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-------------------------
+ src/Zte/CambiarPuertoPon_Zte_Titan.java | 92 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-------------------------
+ 3 files changed, 202 insertions(+), 76 deletions(-)
+[root@rdasoporte jmiddleware]# 
+
+ [root@rdasoporte jmiddleware]# git merge dchipuxi_Interoperabilidad
+Updating 1d8352a..9fb060d
+Fast-forward
+ src/Zte/Activar_Zte_Titan.java          | 94 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++--------------------------
+ src/Zte/CambiarEquipo_Zte_Titan.java    | 92 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-------------------------
+ src/Zte/CambiarPuertoPon_Zte_Titan.java | 92 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-------------------------
+ 3 files changed, 202 insertions(+), 76 deletions(-)
+[root@rdasoporte jmiddleware]# 
+
+
+ [root@rdasoporte jmiddleware]# git merge dchipuxi_Interoperabilidad
+Updating 1d8352a..9fb060d
+Fast-forward
+ src/Zte/Activar_Zte_Titan.java          | 94 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++--------------------------
+ src/Zte/CambiarEquipo_Zte_Titan.java    | 92 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-------------------------
+ src/Zte/CambiarPuertoPon_Zte_Titan.java | 92 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-------------------------
+ 3 files changed, 202 insertions(+), 76 deletions(-)
+[root@rdasoporte jmiddleware]# 
+
+
+ [root@rdasoporte jmiddleware]# git merge dchipuxi_Interoperabilidad
+Updating 1d8352a..9fb060d
+Fast-forward
+ src/Zte/Activar_Zte_Titan.java          | 94 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++--------------------------
+ src/Zte/CambiarEquipo_Zte_Titan.java    | 92 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-------------------------
+ src/Zte/CambiarPuertoPon_Zte_Titan.java | 92 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-------------------------
+ 3 files changed, 202 insertions(+), 76 deletions(-)
+[root@rdasoporte jmiddleware]# 
  
 
 
